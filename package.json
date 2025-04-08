@@ -1,8 +1,9 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "ITaandeur",
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "description": "Computerhulp aan de deur, snel en betrouwbaar",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
